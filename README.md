@@ -27,6 +27,6 @@ $ terraform destroy
 
 ## Author
 
-- [Kevin Vogel](https://medium.com/@hellokevinvogel)
+- SR
 
 ADDED CODE FOR MULTI INSTANCES
