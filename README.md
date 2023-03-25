@@ -27,3 +27,5 @@ $ terraform destroy
 ## Author
 
 - [Kevin Vogel](https://medium.com/@hellokevinvogel)
+
+ADDED CODE FOR MULTI INSTANCES
